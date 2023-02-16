@@ -4,7 +4,7 @@
 
 
 ### 👨‍🏫   About Me  
-Experienced Activities Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, React, HTML5, CSS3, SASS, jQuery, WordPress Customization, Microsoft Excel, Microsoft PowerPoint, Business Development and Systems Analysis. Strong education professional with a Bachelor of Science (BSc) focused on Computer Science and Engineering from Green University.  
+Experienced Activities Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, React, HTML5, CSS3, SASS, jQuery, Bootstrap, Microsoft Excel, Microsoft PowerPoint, Business Development and Systems Analysis. Strong education professional with a Bachelor of Science (BSc) focused on Computer Science and Engineering from Green University.  
   
 
 
