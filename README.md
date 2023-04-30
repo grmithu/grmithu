@@ -95,7 +95,7 @@ Experienced Activities Coordinator with a demonstrated history of working in the
 
 ### 👨🏻‍🎓   Education  
 B.Sc. in Computer Science & Engineering (CSE)  <br>
-Green University <br>
+Green University of Bangladesh <br>
 Dhaka, Bangladesh  
   
 
