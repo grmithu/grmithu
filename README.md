@@ -13,8 +13,9 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 ### ☕ Connect with me!  
 
 
-
-
+<a href="https://golamrabbani.info/" target="_blank">
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=Website style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/grmithu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -24,10 +25,13 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 <a href="https://instagram.com/gr_mithu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://twitter.com/gr_mithu" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
 
+
+
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 
 <br/>  
