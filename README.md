@@ -26,6 +26,9 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 </a>
 
 
+![Website](https://img.shields.io/website)
+
+
 
 
 <br/>  
