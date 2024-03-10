@@ -4,7 +4,7 @@
 
 
 ### 👨‍🏫   About Me  
-I'm a passionate FullStack Developer based in  Bangladesh and learning new things everyday.
+I'm a passionate FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 
 
   
