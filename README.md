@@ -24,8 +24,7 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 </a>
 <a href="https://twitter.com/gr_mithu" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
-</a>
-<a mailto:golamrabbani3010@gmail.com target="_blank">
+</a> <a mailto:golamrabbani3010@gmail.com target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" />
 </a>
 
