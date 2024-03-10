@@ -23,11 +23,10 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 </a>
 <a href="https://instagram.com/gr_mithu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gr_mithu) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golamrabbani3010@gmail.com)
+</a>
 
 
 
-  
 
 <br/>  
 
