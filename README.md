@@ -4,9 +4,10 @@
 
 
 ### 👨‍🏫   About Me  
-Experienced Activities Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in PHP, Laravel, JavaScript, HTML5, CSS3, SASS, jQuery, Bootstrap, Microsoft Excel, Microsoft PowerPoint, Business Development and Systems Analysis. Strong education professional with a Bachelor of Science (BSc) focused on Computer Science and Engineering from Green University.  
-  
+I'm a passionate FullStack Developer based in  Bangladesh and learning new things everyday.
 
+
+  
 
 
 ### ☕ Connect with me!  
