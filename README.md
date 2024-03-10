@@ -24,15 +24,12 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 
 
 ## Rapidfire  
-🌱 I’m currently learning React  
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
   
-
-❓ Ask me about anything related to MERN stack and related technologies  
+❓ Ask me about PHP, Laravel, JavaScript, WordPress and API development.
   
-
 📧 How to reach me: golamrabbani3010@gmail.com  
   
-
 ⚡ Fun fact: Well, I wouldn’t really say GitHub began as a weekend project.  
   
 
