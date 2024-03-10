@@ -22,16 +22,16 @@ I'm a passionate FullStack Developer based in <span><img src="https://images.emo
 <a href="https://www.facebook.com/mgrmithu" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/gr_mithu" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/gr_mithu" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
+<a mailto:golamrabbani3010@gmail.com target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" />
+</a>
 
 
 
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
 
 
 <br/>  
