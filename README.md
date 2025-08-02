@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer based in <span><img src="https://images.em
 ## Rapidfire  
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
-❓ Ask me about PHP, Laravel, JavaScript, WordPress and API development.
+❓ Ask me about PHP, Laravel, JavaScript, Vue.js, WordPress and API development.
 
 📧 How to reach me: golamrabbani3010@gmail.com  
 
