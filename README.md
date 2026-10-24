@@ -1,8 +1,8 @@
 ## Hello, I'm Golam Rabbani Mithu 👋  
   
 
-### 👨‍🏫   About Me  
-I'm a passionate Full Stack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
+### 👨‍💻 About Me 
+I'm a Full Stack Developer based in Bangladesh, with 3+ years of experience building web applications.
 
 
 
