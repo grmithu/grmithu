@@ -15,7 +15,7 @@ I'm a Full Stack Developer based in Bangladesh, with 3+ years of experience buil
 
 <br/>  
 
-
+##
 🌱 Currently improving my AI-assisted development workflow and learning system design to build more scalable applications.
 
 ❓ Ask me about PHP, Laravel, JavaScript, React, Next.js, Vue.js, WordPress, and RESTful API development.
@@ -24,7 +24,6 @@ I'm a Full Stack Developer based in Bangladesh, with 3+ years of experience buil
 
 ⚡ Fun fact: My code helps parents get the right guide for their child, from pregnancy to age 12, based on the child's birthdate. 
   
-
 <br/>  
 
 ## Languages and Tools  
