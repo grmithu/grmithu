@@ -16,12 +16,13 @@
 
 ### 👨‍💻 About Me
 
-| | |
-| :-- | :-- |
-| 🌱 | Currently improving my AI-assisted development workflow and learning system design to build more scalable applications. |
-| ❓ | Ask me about PHP, Laravel, JavaScript, React, Next.js, Vue.js, WordPress, and RESTful API development. |
-| 📧 | How to reach me: [golamrabbani3010@gmail.com](mailto:golamrabbani3010@gmail.com) |
-| ⚡ | Fun fact: My code helps parents get the right guide for their child, from pregnancy to age 12, based on the child's birthdate. |
+🌱 Currently improving my AI-assisted development workflow and learning system design to build more scalable applications.
+
+❓ Ask me about PHP, Laravel, JavaScript, React, Next.js, Vue.js, WordPress, and RESTful API development.
+
+📧 How to reach me: [golamrabbani3010@gmail.com](mailto:golamrabbani3010@gmail.com)
+
+⚡ Fun fact: My code helps parents get the right guide for their child, from pregnancy to age 12, based on the child's birthdate.
 
 ---
 
@@ -29,7 +30,7 @@
 
 <table>
   <tr>
-    <td valign="middle"><b>Back-End</b></td>
+    <td valign="middle" nowrap width="1%"><b>Back-End</b></td>
     <td valign="middle">
       <img align="absmiddle" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
       <img align="absmiddle" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
@@ -37,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Front-End</b></td>
+    <td valign="middle" nowrap width="1%"><b>Front-End</b></td>
     <td valign="middle">
       <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       <img align="absmiddle" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -51,14 +52,14 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Database</b></td>
+    <td valign="middle" nowrap width="1%"><b>Database</b></td>
     <td valign="middle">
       <img align="absmiddle" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
       <img align="absmiddle" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>DevOps &amp; Tools</b></td>
+    <td valign="middle" nowrap width="1%"><b>DevOps &amp; Tools</b></td>
     <td valign="middle">
       <img align="absmiddle" alt="Laravel Forge" src="https://img.shields.io/badge/Laravel_Forge-19B8A6?style=flat-square&logo=laravel&logoColor=white">
       <img align="absmiddle" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
