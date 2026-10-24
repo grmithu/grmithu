@@ -15,7 +15,6 @@ I'm a passionate Full Stack Developer based in <span><img src="https://images.em
 <br/>  
 
 
-## Rapidfire  
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
 ❓ Ask me about PHP, Laravel, JavaScript, Vue.js, WordPress and API development.
