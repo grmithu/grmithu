@@ -16,8 +16,11 @@ I'm a passionate Full Stack Developer based in <span><img src="https://images.em
 
 
 🌱 Currently improving my AI-assisted development workflow and learning system design to build more scalable applications.
+
 ❓ Ask me about PHP, Laravel, JavaScript, React, Next.js, Vue.js, WordPress, and RESTful API development.
+
 📧 How to reach me: golamrabbani3010@gmail.com  
+
 ⚡ Fun fact: My code helps parents get the right guide for their child, from pregnancy to age 12, based on the child's birthdate. 
   
 
