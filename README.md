@@ -1,3 +1,5 @@
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" />
+
 <h1 align="center">Hello, I'm Golam Rabbani Mithu 👋</h1>
 
 <p align="center">
@@ -26,50 +28,55 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://togumogu.com/">ToguMogu Parenting Platform</a></h4>
+      Parenting platform serving 200,000+ users, with guides and product suggestions from pregnancy to age 12.
+      <br><br>
+      <sub><b>Laravel · React · Next.js · MySQL</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://pathshala.togumogu.com/">Daycare &amp; Pre-School Management</a></h4>
+      Multi-branch platform for admissions, attendance, and automated monthly billing.
+      <br><br>
+      <sub><b>Laravel · React · TypeScript · Inertia.js</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://green.edu.bd/">Green University Website</a></h4>
+      Official university website with role-based access and a dynamic admin dashboard.
+      <br><br>
+      <sub><b>Laravel · MySQL · jQuery · Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠 Languages and Tools
 
 <table>
   <tr>
     <td valign="middle" nowrap width="1%"><b>Back-End</b></td>
-    <td valign="middle">
-      <img align="absmiddle" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-      <img align="absmiddle" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-      <img align="absmiddle" alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    </td>
+    <td valign="middle"><img height="36" alt="PHP, Laravel, WordPress" src="https://skillicons.dev/icons?i=php,laravel,wordpress"></td>
   </tr>
   <tr>
     <td valign="middle" nowrap width="1%"><b>Front-End</b></td>
-    <td valign="middle">
-      <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img align="absmiddle" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      <img align="absmiddle" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-      <img align="absmiddle" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-      <img align="absmiddle" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-      <img align="absmiddle" alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
-      <img align="absmiddle" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-      <img align="absmiddle" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-      <img align="absmiddle" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-    </td>
+    <td valign="middle"><img height="36" alt="JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt, Tailwind CSS, Bootstrap, Sass" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap,sass&perline=9"></td>
   </tr>
   <tr>
     <td valign="middle" nowrap width="1%"><b>Database</b></td>
-    <td valign="middle">
-      <img align="absmiddle" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      <img align="absmiddle" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-    </td>
+    <td valign="middle"><img height="36" alt="MySQL, Redis" src="https://skillicons.dev/icons?i=mysql,redis"></td>
   </tr>
   <tr>
     <td valign="middle" nowrap width="1%"><b>DevOps &amp; Tools</b></td>
     <td valign="middle">
-      <img align="absmiddle" alt="Laravel Forge" src="https://img.shields.io/badge/Laravel_Forge-19B8A6?style=flat-square&logo=laravel&logoColor=white">
-      <img align="absmiddle" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-      <img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      <img align="absmiddle" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img align="absmiddle" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-      <img align="absmiddle" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
-      <img align="absmiddle" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-      <img align="absmiddle" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-      <img align="absmiddle" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+      <img align="absmiddle" alt="Laravel Forge" src="https://img.shields.io/badge/Laravel_Forge-19B8A6?style=for-the-badge&logo=laravel&logoColor=white">
+      <img align="absmiddle" height="36" alt="GitHub Actions, Docker, Git, GitHub, Bitbucket, Postman, Figma, Firebase" src="https://skillicons.dev/icons?i=githubactions,docker,git,github,bitbucket,postman,figma,firebase&perline=8">
     </td>
   </tr>
 </table>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
