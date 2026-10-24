@@ -13,7 +13,6 @@ I'm a Full Stack Developer based in Bangladesh, with 3+ years of experience buil
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golamrabbani3010@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gr_mithu)
 
-<br/>  
 
 ##
 🌱 Currently improving my AI-assisted development workflow and learning system design to build more scalable applications.
